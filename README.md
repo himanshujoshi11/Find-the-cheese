@@ -1,4 +1,4 @@
-### About
+# About
 This an automated program that creates a *genetic algorithm* approach for *evolving* a "mouse" to successfully navigate a maze to find the "cheese." This was created using *Python 3* and the visualization was done using *Turtle graphics*.  
 **Professor: Dr. Amy Larson**.  
 **CSCI 1133 at UMN, Twin Cities**.  
