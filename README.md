@@ -1,7 +1,6 @@
 ### About
-This an automated program that creates a *genetic algorithm* approach for *evolving* a "mouse" to successfully navigate a maze to find the "cheese." This was created using *Python 3* and the visualization was done using *Turtle graphics.* 
-**Professor: Dr. Amy Larson**
-**CSCI 1133 at UMN, Twin Cities**
+This an automated program that creates a *genetic algorithm* approach for *evolving* a "mouse" to successfully navigate a maze to find the "cheese." This was created using *Python 3* and the visualization was done using *Turtle graphics*.   **Professor: Dr. Amy Larson**.  
+**CSCI 1133 at UMN, Twin Cities**  
 
 ## How was Genetic Algorithm implemented?
 An individual was defined by some string meant to represent genes. The individual was *tested* in a given environment that resulted in a fitness value for that individual. For this project, the genes were the possible moves in the maze.
